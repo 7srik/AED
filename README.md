@@ -1,2 +1,2 @@
 # AED
-AED Assignments
+AED Projects and Assignments
