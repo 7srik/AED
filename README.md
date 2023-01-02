@@ -7,7 +7,7 @@ PROJECT:
 Food Delivery Application
 
 BY:
-Sri Venkata Satya Akhil Malladi
+Sri Venkata Satya Akhil Malladi, 
 Sri Krishna Karumanchi
  
 Goal:
