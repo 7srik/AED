@@ -1,2 +1,2 @@
 # AED
-AED Projects and Assignments
+AED - Application Engineering & Development
